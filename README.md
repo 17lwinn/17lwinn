@@ -12,3 +12,7 @@ DEV: [profile](https://dev.to/17lwinn)
 glitchchord, thanks Thalkod and all the helping devs for making this possible- your awesome :) - [site](https://glitchchord.glitch.me)
 
 QSearch - jonyk56 made this: [qsearch, the developer search engine](qsearch.glitch,me)
+
+---------------
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=17lwinn)](https://github.com/anuraghazra/github-readme-stats)

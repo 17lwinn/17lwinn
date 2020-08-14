@@ -15,4 +15,5 @@ QSearch - jonyk56 made this: [qsearch, the developer search engine](qsearch.glit
 
 ---------------
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=17lwinn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=17lwinn)]
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17lwinn&theme=radical" />

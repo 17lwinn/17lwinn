@@ -13,7 +13,7 @@ glitchchord, thanks Thalkod and all the helping devs for making this possible- y
 
 QSearch - jonyk56 made this: [qsearch, the developer search engine](qsearch.glitch,me)
 
-ProTech EasyWeb Server: [here it is!](https://github.com/17lwinn/webeasy-server)
+ProTech EasyWeb Server: [here it is! my webserver project!](https://github.com/17lwinn/webeasy-server)
 
 ---------------
 

@@ -11,7 +11,7 @@ DEV: [profile](https://dev.to/17lwinn)
 
 glitchchord, thanks Thalkod and all the helping devs for making this possible- your awesome :) - [site](https://glitchchord.glitch.me)
 
-QSearch - jonyk56 made this: [qsearch, the developer search engine](qsearch.glitch,me)
+QSearch - jonyk56 made this: [qsearch, the developer search engine](https://qsearch.glitch,me)
 
 ProTech WebEasy Server: [here it is! my webserver project!](https://github.com/17lwinn/webeasy-server)
 

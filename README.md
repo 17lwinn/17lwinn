@@ -1,4 +1,6 @@
-## welcome to the inifite wonders of what we call a profile
+![hello](header.png)
+
+## and welcome to the inifite wonders of what we call a profile
 
 I help in many different projects while making my own, mainly in python
 

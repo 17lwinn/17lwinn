@@ -11,7 +11,7 @@ DEV: [profile](https://dev.to/17lwinn)
 
 # my projects!
 
-glitchchord, thanks Thalkod and all the helping devs for making this possible- your awesome :) - [site](https://glitchchord.glitch.me)
+coffeechat, thanks Thalkod for the original code and all the helping devs for making this possible- your awesome :) - [site](https://coffeechat.glitch.me)
 
 QSearch - jonyk56 made this: [qsearch, the developer search engine](https://qsearch.glitch.me)
 

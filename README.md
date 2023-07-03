@@ -9,4 +9,5 @@ DEV: [profile](https://dev.to/17lwinn)
 ---------------
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17lwinn&theme=radical" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+![help](https://github-profile-trophy.vercel.app/?username=17lwinn)
